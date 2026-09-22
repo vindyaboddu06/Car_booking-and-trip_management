@@ -1,2 +1,2 @@
-# ClusterOps-Manager
-Students deploy PostgreSQL and MongoDB clusters using Docker and monitor cluster health, backups, recovery operations, resource utilization, active connections, and storage consumption. The Python dashboard provides a centralized view of database availability and cluster performance, simulating enterprise database administration. 
+#car_booking-and-trip_management
+Car Booking and Trip Management Database is a centralized database system designed to manage the complete car booking and trip process. It stores and organizes information about customers, drivers, vehicles, bookings, trips, payments, and ratings. The system helps maintain booking records, track trip details, manage driver and vehicle information, and record payment and customer feedback. It also supports data analysis such as identifying the most active drivers, popular pickup locations, total revenue, completed/cancelled trips, and customer booking patterns using SQL queries.
